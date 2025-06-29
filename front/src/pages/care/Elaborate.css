@@ -1,0 +1,57 @@
+.elaborate-page {
+    background-color: #F2F2F2;
+    padding: 20px 20px;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Pretendard', sans-serif;
+}
+
+.elaborate-header h2 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.elaborate-header p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #555;
+    line-height: 1.5;
+}
+
+.mindy-image{
+  height : 330px;
+  width : 330px;
+  margin-bottom: 10px;
+}
+
+.stop-elaborate-btn {
+  padding: 16px 120px;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.2s;
+}
+
+.stop-elaborate-btn {
+      display: inline-block;
+    margin-top: 10px; /* 위에 gap 20px */
+    padding: 16px 120px;
+    background-color: #FF6E6E;
+    color: white;
+    text-decoration: none; /* 밑줄 제거 */
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.stop-elaborate-btn:hover {
+  background-color: #e95757;
+}
